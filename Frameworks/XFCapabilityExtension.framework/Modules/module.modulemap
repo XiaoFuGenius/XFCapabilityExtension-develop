@@ -1,6 +1,0 @@
-framework module XFCapabilityExtension {
-  umbrella header "XFCapabilityExtension.h"
-
-  export *
-  module * { export * }
-}
